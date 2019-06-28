@@ -1,1 +1,1 @@
-# sharing-pratice
+# learning logs
